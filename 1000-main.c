@@ -1,6 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "deck.h"
+/**
+ * print_deck - print deck
+ * @deck: deck
+ **/
 
 void print_deck(const deck_node_t *deck)
 {
