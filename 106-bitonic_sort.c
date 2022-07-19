@@ -91,4 +91,3 @@ void bitonic_sort(int *array, size_t size)
 		return;
 	bitonicsort(array, 0, size, order, size);
 }
-Footer
